@@ -5,7 +5,7 @@
   }
   .promo {
     height: 800px;
-    background: url(/img/header/main_bg.png) center center/cover no-repeat;
+    background: url(img/header/main_bg.png) center center/cover no-repeat;
     padding: 39px 0 62px 0;
   }
   /* В бэкграунде пишем путь к картинке и дальше параметры по позиционированию. Cover - автоматически подстраивать под размер экрана */
@@ -227,7 +227,7 @@
   
   .finish {
     min-height: 445px;
-    background: url(/img/main/second_bg.png) center center/cover no-repeat;
+    background: url(img/main/second_bg.png) center center/cover no-repeat;
   }
   .finish .finish_wrapper {
     margin-top: 41px;
